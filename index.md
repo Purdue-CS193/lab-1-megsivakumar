@@ -41,5 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 My favorite things about Purdue CS193 include
 - The TAs :)
 - How cool the instructor is
-- The importance and utility of the stuff we learn (they're legitimately useful)
+- The importance and utility of the stuff we learn (all of it is legitimately useful)
 - The computers are pretty cool too
