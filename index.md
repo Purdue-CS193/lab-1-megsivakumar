@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Meghana Sivakumar's first CS193 Lab
+
+My favorite things about Purdue CS193 include
+- The TAs :)
+- How cool the instructor is
+- The importance and utility of the stuff we learn (they're legitimately useful)
+- The computers are pretty cool too
